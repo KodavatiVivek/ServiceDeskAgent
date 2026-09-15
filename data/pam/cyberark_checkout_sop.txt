@@ -1,0 +1,7 @@
+CyberArk Password Checkout Failure SOP
+
+1. Verify that the user has active safe membership.
+2. Confirm that the password object is not locked by another active session.
+3. Check CPM reconciliation status.
+4. Review vault activity logs for recent errors.
+5. If authorization fails, route the incident to PAM Operations.

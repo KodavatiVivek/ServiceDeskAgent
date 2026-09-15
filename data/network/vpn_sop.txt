@@ -1,0 +1,3 @@
+VPN Troubleshooting SOP
+
+Check network connectivity, MFA completion, device compliance, VPN client version, DNS resolution, and firewall policy changes.

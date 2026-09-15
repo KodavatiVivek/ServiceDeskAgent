@@ -1,0 +1,4 @@
+IAM Account Unlock SOP
+
+Verify user identity, check lockout reason, validate MFA status, and follow approved unlock workflow.
+High-risk admin accounts require manager approval.
