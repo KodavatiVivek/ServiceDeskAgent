@@ -4,8 +4,15 @@ git
 Hi ;nmfwrmwmo
 
 kjbfaejkb.ilsurabglfi.uhweqal.keb.kjAWWNSBK<HDBi.aswhnejkfbse;obfa,vjzdn/lojfbliaquwnd.lcJKSE
+<<<<<<< HEAD
+germophetgopethop kjbiufsezibibafeyubiuwfbegkhzwvjhfbdiwa
 
-
+Environment = production
 svfokjhilusadfgulysgdaliublafsiuDbr.
 >>>>>>> dev1
 S
+=======
+lkncsdlknvliwbalivublsfvoibnv;oiebnilecb;soribv;oiwr
+
+svfokjhilusadfgulysgdaliublafsiuDbr.
+>>>>>>> dev1
